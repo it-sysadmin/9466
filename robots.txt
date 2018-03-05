@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /
+
+#User-Agent: *
+# disallow all files ending with these extensions
+#Disallow: /*.php$
+#Disallow: /*.html$
+#Disallow: /*.shtml$
+
+#User-Agent: Googlebot
+# disallow all files ending with these extensions
+#Disallow: /*.php$
+#Disallow: /*.html$
+#Disallow: /*.shtml$
